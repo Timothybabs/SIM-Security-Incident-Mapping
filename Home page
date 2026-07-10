@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+    <h1>Security Incident Mapping System (SIM)</h1>
+
+<p>
+A platform for reporting and monitoring security incidents
+within and around the campus.
+</p>
+
+<a href="login.html">Login</a>
+<a href="report.html">Report Incident</a>
+<a href="dashboard.html">Dashboard</a>
+}
