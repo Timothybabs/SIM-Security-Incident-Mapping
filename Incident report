@@ -1,0 +1,26 @@
+<h2>Report Incident</h2>
+
+<form>
+
+<label>Incident Type</label><br>
+<select>
+<option>Theft</option>
+<option>Harassment</option>
+<option>Cultism</option>
+</select>
+
+<br><br>
+
+<label>Location</label><br>
+<input type="text">
+
+<br><br>
+
+<label>Description</label><br>
+<textarea></textarea>
+
+<br><br>
+
+<button>Submit Report</button>
+
+</form>
